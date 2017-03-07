@@ -13,8 +13,6 @@ ms.assetid: 5e2a3efd-443c-4f23-a1b1-a662a5387879
 ---
 # dotnet-add reference
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 ## Name
 
 `dotnet-add reference` - Adds project to project references.

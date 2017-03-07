@@ -14,8 +14,6 @@ ms.assetid: ffdc40ba-ef33-463e-aa35-b0af1fe615a2
 
 #dotnet-msbuild
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 ## Name 
 dotnet-msbuild -- Builds a project and all of its dependencies.
 

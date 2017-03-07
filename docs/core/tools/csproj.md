@@ -13,8 +13,6 @@ ms.assetid: bdc29497-64f2-4d11-a21b-4097e0bdf5c9
 
 # Additions to the csproj format for .NET Core
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 This document outlines the changes that were added to the project files as part of the move from *project.json* to *csproj* and 
 [MSBuild](https://github.com/Microsoft/MSBuild). For more information about general project file syntax and reference, 
 see [the MSBuild project file](https://docs.microsoft.com/visualstudio/msbuild/msbuild-project-file-schema-reference) documentation.  

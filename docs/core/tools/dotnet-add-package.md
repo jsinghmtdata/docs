@@ -13,8 +13,6 @@ ms.assetid: 88e0da69-a5ea-46cc-8b46-5493242b7af9
 ---
 # dotnet-add package
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 ## Name
 
 `dotnet-add package` - Adds a package reference to a project file.

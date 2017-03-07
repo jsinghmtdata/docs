@@ -13,8 +13,6 @@ ms.assetid: 8f954a0c-03f8-4fbc-a529-b313ab12c623
 ---
 # dotnet-list reference
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 ## Name
 
 `dotnet-list reference` - Lists project to project references.

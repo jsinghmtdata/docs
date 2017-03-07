@@ -13,8 +13,6 @@ ms.assetid: 2fcc8d37-16b3-4581-8038-832160e72d36
 ---
 # dotnet-remove package
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 ## Name
 
 `dotnet-remove package` - Removes package reference from a project file.

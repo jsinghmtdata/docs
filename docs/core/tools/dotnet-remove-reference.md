@@ -13,8 +13,6 @@ ms.assetid: 889c6b7e-a313-40b1-9fd3-6a6f4c52f1d0
 ---
 # dotnet-remove reference
 
-[!INCLUDE[preview-warning](../../../includes/warning.md)]
-
 ## Name
 
 `dotnet-remove reference` - Removes project to project references.

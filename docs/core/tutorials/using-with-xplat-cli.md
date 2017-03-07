@@ -12,11 +12,7 @@ ms.devlang: dotnet
 ms.assetid: 41632e63-d5c6-4427-a09e-51dc1116d45f
 ---
 
-# Getting started with .NET Core on Windows/Linux/macOS using the command line (.NET Core Tools RC4)
-
-> [!WARNING]
-> This topic applies to .NET Core Tools RC4. For the .NET Core Tools Preview 2 version,
-> see the [Getting started with .NET Core on Windows/Linux/macOS using the CLI](../../tutorials/using-with-xplat-cli.md) topic.
+# Getting started with .NET Core on Windows/Linux/macOS using the command line
 
 This topic will show you how to start developing cross-platforms apps in your machine using the .NET Core CLI tools.
 
@@ -24,7 +20,7 @@ If you're unfamiliar with the .NET Core CLI toolset, read the [.NET Core SDK ove
 
 ## Prerequisites
 
-- [.NET Core CLI tooling RC4](https://github.com/dotnet/core/blob/master/release-notes/rc4-download.md).
+- [.NET Core SDK 1.0.0](https://www.microsoft.com/net/download/core).
 - A text editor or code editor of your choice.
 
 ## Hello, Console App!
