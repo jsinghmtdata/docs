@@ -158,4 +158,4 @@ Note that the commands and steps shown in this tutorial to run your application 
 
 ## See also
 
-[Organizing and testing projects with the .NET Core CLI tools](using-with-xplat-cli-msbuild-folders.md)
+[Organizing and testing projects with the .NET Core CLI tools](testing-with-cli.md)
