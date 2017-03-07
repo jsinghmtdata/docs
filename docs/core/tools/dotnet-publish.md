@@ -52,7 +52,7 @@ Publishes the application for a given framework identifier (FID).
 
 `-r|--runtime <RUNTIME_IDENTIFIER>`
 
-Publishes the application for a given runtime. For a list of Runtime Identifiers (RIDs) you can use, see the [RID catalog](../../rid-catalog.md).
+Publishes the application for a given runtime. For a list of Runtime Identifiers (RIDs) you can use, see the [RID catalog](../rid-catalog.md).
 
 `-o|--output <OUTPUT_PATH>`
 
@@ -87,5 +87,5 @@ exist in the project file).
 `dotnet publish --framework netcoreapp1.0 --runtime osx.10.11-x64`
 
 ## See also
-* [Frameworks](../../../standard/frameworks.md)
-* [Runtime IDentifier (RID) catalog](../../rid-catalog.md)
+* [Frameworks](../../standard/frameworks.md)
+* [Runtime IDentifier (RID) catalog](../rid-catalog.md)

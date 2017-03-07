@@ -123,7 +123,7 @@ a replacement for the `tools` node in *project.json*.
 `Version` specifies the version of the package to restore. The attribute respect the rules of the NuGet versioning scheme.
 
 ### RuntimeIdentifiers
-The `<RuntimeIdentifiers>` element lets you specify a semicolon-delimited list of [Runtime Identifiers (RIDs)](../../rid-catalog.md) for the project. 
+The `<RuntimeIdentifiers>` element lets you specify a semicolon-delimited list of [Runtime Identifiers (RIDs)](../rid-catalog.md) for the project. 
 RIDs enable publishing a self-contained deployments. 
 
 ```xml
@@ -132,7 +132,7 @@ RIDs enable publishing a self-contained deployments.
 
 
 ### RuntimeIdentifier
-The `<RuntimeIdentifier>` element allows you to specify only one [Runtime Identifier (RID)](../../rid-catalog.md) for the project. RIDs enable publishing a self-contained deployment. 
+The `<RuntimeIdentifier>` element allows you to specify only one [Runtime Identifier (RID)](../rid-catalog.md) for the project. RIDs enable publishing a self-contained deployment. 
 
 ```xml
 <RuntimeIdentifier>ubuntu.16.04-x64</RuntimeIdentifier>
